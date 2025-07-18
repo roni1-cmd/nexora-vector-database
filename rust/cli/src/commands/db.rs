@@ -129,8 +129,6 @@ pub enum DbCommand {
     List(ListArgs),
 }
 
-//fix string error line 39 and refactor mod file - Devin
-//wtf are you talking about???????? - Ron
 
 fn capitalize(s: &str) -> String {
     let mut c = s.chars();
