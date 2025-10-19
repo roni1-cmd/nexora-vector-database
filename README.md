@@ -1,7 +1,3 @@
-<p align="center">
-    <b>Chroma - the open-source embedding database</b>. <br />
-    The fastest way to build Python or JavaScript LLM apps with memory!
-</p>
 
 <p align="center">
   <a href="https://discord.gg/MMeYNTmh3x" target="_blank">
@@ -91,4 +87,5 @@ We currently release new tagged versions of the `pypi` and `npm` packages on Mon
 ## License
 
 [Apache 2.0](./LICENSE)
+
 
