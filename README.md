@@ -1,18 +1,4 @@
 
-<p align="center">
-  <a href="https://discord.gg/MMeYNTmh3x" target="_blank">
-      <img src="https://img.shields.io/discord/1073293645303795742?cacheSeconds=3600" alt="Discord">
-  </a> |
-  <a href="https://github.com/chroma-core/chroma/blob/master/LICENSE" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=license&message=Apache 2.0&color=white" alt="License">
-  </a> |
-  <a href="https://docs.trychroma.com/" target="_blank">
-      Docs
-  </a> |
-  <a href="https://www.trychroma.com/" target="_blank">
-      Homepage
-  </a>
-</p>
 
 
 ```bash
@@ -87,5 +73,6 @@ We currently release new tagged versions of the `pypi` and `npm` packages on Mon
 ## License
 
 [Apache 2.0](./LICENSE)
+
 
 
