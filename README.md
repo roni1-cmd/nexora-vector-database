@@ -1,8 +1,4 @@
 <p align="center">
-  <a href="https://trychroma.com"><img src="https://user-images.githubusercontent.com/891664/227103090-6624bf7d-9524-4e05-9d2c-c28d5d451481.png" alt="Chroma logo"></a>
-</p>
-
-<p align="center">
     <b>Chroma - the open-source embedding database</b>. <br />
     The fastest way to build Python or JavaScript LLM apps with memory!
 </p>
@@ -95,3 +91,4 @@ We currently release new tagged versions of the `pypi` and `npm` packages on Mon
 ## License
 
 [Apache 2.0](./LICENSE)
+
